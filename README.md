@@ -1,0 +1,1 @@
+This project implements a character-level language model from scratch using PyTorch, starting with a Bigram model and culminating in a simplified GPT (Generative Pretrained Transformer). The models are trained on Shakespeare’s text and can generate syntactically plausible text character by character.
